@@ -5,10 +5,6 @@
 2. The commit message should be structured as follows:
 ```
 <type>[optional scope]: <description>
-
-[optional body]
-
-[optional footer(s)]
 ```
 3. The commit contains the following structural elements, to communicate intent to the consumers of your library:
 
